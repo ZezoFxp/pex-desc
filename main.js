@@ -1,11 +1,12 @@
-const Docxtemplater = require("docxtemplater");
-const PizZip = require("pizzip");
-const fs = require("fs");
+
 
 const path = require("path");
 
-var nome = document.getElementById('name').value;
-var cpf = document.getElementById('cpf').value;
+/* var nome = document.getElementById('name').value;
+var cpf = document.getElementById('cpf').value; */
+
+var nome = "José Messias";
+var cpf = "051.871.033-50";
 
 function gerar(){
     const content = fs.readFileSync(
