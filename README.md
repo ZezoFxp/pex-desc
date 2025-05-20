@@ -2,6 +2,8 @@
 
 Este é um projeto acadêmico desenvolvido como parte das atividades da graduação em Engenharia de Software. O objetivo principal é fornecer uma ferramenta web simples e funcional para que **advogados possam gerar procurações de forma prática e automatizada**, preenchendo apenas um formulário online. (Formulário este que se encontra hospedado pela Render no seguinte endereço: https://pex-desc.onrender.com/)
 
+Talvez seja necessário esperar um pouco até que o site carregue, pela hospedagem dele ser gratuita, então o próprio servidor entra em modo de sono para poupar-se do uso indevido de memória
+
 ---
 
 ## 🎓 Sobre o Projeto
